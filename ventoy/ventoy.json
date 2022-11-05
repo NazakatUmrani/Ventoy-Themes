@@ -1,0 +1,87 @@
+{
+    "control":[
+        { "VTOY_MENU_TIMEOUT": "30" }
+    ],
+    "theme":{
+        "file": "/ventoy/Themes/Atomic/theme.txt",
+        "gfxmode": "1366x768"
+    },
+    "menu_class":[
+        {
+            "key": "Android-x86",
+            "class": "android"
+        },
+        {
+            "key": "Arch",
+            "class": "arch"
+        },
+        {
+            "key": "BlissOS",
+            "class": "blissos"
+        },
+        {
+            "key": "Garuda-KDE",
+            "class": "garuda"
+        },
+        {
+            "key": "GParted",
+            "class": "gpart"
+        },
+        {
+            "key": "Hiren",
+            "class": "windowsrepair"
+        },
+        {
+            "key": "KDE-Neon",
+            "class": "neon"
+        },
+        {
+            "key": "Linux-Mint",
+            "class": "linuxmint"
+        },
+        {
+            "key": "Manjaro",
+            "class": "manjaro"
+        },
+        {
+            "key": "Parted-Magic",
+            "class": "partedmagic"
+        },
+        {
+            "key": "PrimeOS",
+            "class": "primeos"
+        },
+        {
+            "key": "Windows-7",
+            "class": "windows7"
+        },
+        {
+            "key": "Windows-10",
+            "class": "windows10"
+        },
+        {
+            "key": "Windows-XP",
+            "class": "windowsxp"
+        },
+        {
+            "key": "Xero-Linux",
+            "class": "xerolinux"
+        },
+        {
+            "key": "Return to previous menu",
+            "class": "return"
+        },
+        {
+            "key": "Return",
+            "class": "return"
+        },
+        {
+            "key": "Reboot",
+            "class": "reboot"
+        },
+        {
+            "key": "Halt",
+            "class": "shutdown"
+        }
+    ]
+}
